@@ -1,0 +1,31 @@
+{
+  "name": "data-drive",
+  "version": "1.0.0",
+  "description": "A simple wrapper to write to GDrive",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:RamonGebben/data-drive.git"
+  },
+  "keywords": [
+    "Spreadsheets",
+    "Google",
+    "Excel",
+    "Parse",
+    "DB"
+  ],
+  "author": "Ramon Gebben <ramon@ra-ge.net> (http://ra-ge.net)",
+  "license": "MIT",
+    "dependencies": {
+    "colors": "^1.0.3",
+    "edit-google-spreadsheet": "^0.2.16",
+    "lodash": "^3.1.0"
+  },
+  "devDependencies": {
+    "chai": "^1.10.0",
+    "mocha": "^2.1.0"
+  }
+}

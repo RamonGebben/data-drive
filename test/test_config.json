@@ -1,0 +1,20 @@
+{
+	"auth": {
+		"username": "example@gmail.com",
+		"password": "example"
+	},
+	"sheet": {
+		"spreadsheetId": "1GUXxdl5XYEg6TCa20b3i6sQ46jT1dDcmk_HKiD5UM38",
+		"name": "example-sheet",
+		"worksheet": {
+			"worksheetId": "ow1",
+			"name": "example"
+		}
+	},
+	"mapping": {
+		"columns":[
+			["1", "test"],
+			["2", "test2"]
+		]
+	}
+}
